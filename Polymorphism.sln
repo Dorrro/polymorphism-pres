@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{06FFB64B-F5BA-432B-A7E7-3663AE15B22A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherAssambly", "AnotherAssambly\AnotherAssambly.csproj", "{490A2E06-7521-4DE6-91B7-1B3CB424D805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06FFB64B-F5BA-432B-A7E7-3663AE15B22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FFB64B-F5BA-432B-A7E7-3663AE15B22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FFB64B-F5BA-432B-A7E7-3663AE15B22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FFB64B-F5BA-432B-A7E7-3663AE15B22A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490A2E06-7521-4DE6-91B7-1B3CB424D805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490A2E06-7521-4DE6-91B7-1B3CB424D805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490A2E06-7521-4DE6-91B7-1B3CB424D805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490A2E06-7521-4DE6-91B7-1B3CB424D805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
