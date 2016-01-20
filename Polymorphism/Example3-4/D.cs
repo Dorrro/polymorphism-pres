@@ -2,7 +2,7 @@
 {
     public class D : C1
     {
-        // I can't overrided here :(
+        // I can't override here :(
 
     }
 }
